@@ -6,6 +6,8 @@ and then the variable created as a parameter in the object is passed.
 
 
 ** Ex: const elementos = 'div', 'div', 'h1';
+
+
 ** insertContent({parent: body, element: elementos});
 
 It is necessary to pass the value of Parent and Element 

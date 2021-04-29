@@ -1,4 +1,4 @@
-/**/
+/* */
 function insertContent({
   parent: parent,
   element: element,
